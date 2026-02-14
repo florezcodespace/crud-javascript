@@ -1,0 +1,30 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  padding-top: 80px;
+}
+
+.navbar {
+  background-color: #1f1f1f !important;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border: 1px solid #2c2c2c;
+  color: white;
+}
+
+.btn-custom {
+  border-radius: 10px;
+}
+
+.table {
+  color: white;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #1f1f1f;
+  text-align: center;
+}
